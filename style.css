@@ -230,5 +230,13 @@ body {
     padding: 1.5rem;
     margin-block: 1.5rem;
     border-radius: 100px;
+    border: none;
+}
+
+.btn:hover {
+    background-image: linear-gradient(to bottom, 
+    var(--color-light-slate-blue), 
+    var(--color-light-royal-blue));
+    
 }
 
